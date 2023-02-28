@@ -54,3 +54,7 @@
 ### Layout credits
 
 Interface based on the [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) project by [gunnarhawk](https://github.com/Gunnarhawk)
+
+### Project credits
+
+This project was forked and adapted from [Erik Wendel's course - Semana Javascript Expert 7](https://github.com/erickWendel/semana-javascript-expert07)
