@@ -18,21 +18,21 @@
 ## Checklist Features
 
 - Titles List
-  - [] Search field should not freeze when typing search term
-  - [] Should draw the hands on the screen and make elements in the background clickable
-  - [] Should execute scroll up when using open hands 🖐
-  - [] Should execute scroll down when using closed hands ✊
-  - [] Should execute click on the nearest element when using pinch gesture 🤏🏻
-  - [] When moving elements on the screen, should trigger **:hover** event on elements in context
+  - [x] Search field should not freeze when typing search term
+  - [ ] Should draw the hands on the screen and make elements in the background clickable
+  - [ ] Should execute scroll up when using open hands 🖐
+  - [ ] Should execute scroll down when using closed hands ✊
+  - [ ] Should execute click on the nearest element when using pinch gesture 🤏🏻
+  - [ ] When moving elements on the screen, should trigger **:hover** event on elements in context
 
 - Video Player
-  - [] Should be able to play/pause videos with a blink of an eye 😁
-  - [] All the Machine Learning processing should be done via Web worker
+  - [ ] Should be able to play/pause videos with a blink of an eye 😁
+  - [ ] All the Machine Learning processing should be done via Web worker
 
 ### Extras
 
-- [] Differentiate blink between left and right eye and update log to show which eye blinked.
-- [] Recognize gestures of individual hands and print on log
+- [ ] Differentiate blink between left and right eye and update log to show which eye blinked.
+- [ ] Recognize gestures of individual hands and print on log
 
 ### References:
 
