@@ -28,7 +28,7 @@ const camera = await Camera.init()
 const factory = {
   async initialize() {
     return Controller.initialize({
-      view: new View({}),
+      view: new View(),
       service: new Service({}),
     })
   },
