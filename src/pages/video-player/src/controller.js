@@ -17,4 +17,12 @@ export default class Controller {
   async init() {
     console.log('Controller initialized')
   }
+
+  updateStatus(text) {
+    this.#view.updateStatus(`logger: ${text}`)
+  }
+
+  onBtnClick() {
+    this.updateStatus('Initializing...')
+  }
 }

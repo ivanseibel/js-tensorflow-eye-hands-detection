@@ -1,4 +1,6 @@
 export default class View {
-  constructor({ }) {
+
+  updateStatus(status) {
+    this.#statusElement.innerHTML = status
   }
 }
