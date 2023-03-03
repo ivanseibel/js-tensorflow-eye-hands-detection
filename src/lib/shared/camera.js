@@ -30,5 +30,7 @@ export default class Camera {
     })
 
     camera.video.play()
+
+    return camera
   }
 }
